@@ -1,3 +1,5 @@
 [submodule "motion"]
 	path = motion
 	url = https://github.com/ChristianMilianti/motion-planners.git
+	branch = setup-for-zbook
+
